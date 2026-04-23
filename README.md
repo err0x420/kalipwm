@@ -11,7 +11,7 @@ Despliega un entorno de hacking profesional para Kali Linux ejecutando solo un s
 - Testado en Kali Linux 2025.1c en VMware, VirtualBox y Bare Metal.
 
 ```
-git clone https://github.com/afsh4ck/kalipwm.git
+git clone https://github.com/err0x420/kalipwm.git
 cd kalipwm
 bash kalipwm.sh
 sudo reboot
